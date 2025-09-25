@@ -1,6 +1,6 @@
 # MedConnect AI
 
-**Team:** Oana Ilie, Carmen Rațiu, Sabina Radu, Darius Borza  
+**Team:** Oana Ilieș, Carmen Rațiu, Sabina Radu, Darius Borza  
 **Project built at:** RebelDot AI Hackathon 2024 
 
 MedConnect is an AI-powered assistant designed to break language barriers in healthcare by enabling real-time multilingual communication between patients and medical professionals. The application integrates speech recognition, text and image translation, and document processing, offering a seamless communication experience in clinical contexts.
